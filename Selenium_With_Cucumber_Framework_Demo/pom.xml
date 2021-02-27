@@ -36,7 +36,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>.//src/test/resources/testRunners/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<!-- <includes> <exclude>**//Runner.java</exclude> </includes> -->
 					<testFailureIgnore>true</testFailureIgnore>
